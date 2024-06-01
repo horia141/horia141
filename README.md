@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @horia141
 - 👀 I’m interested in management, distributed systems, machine learning, and software engineering
-- 🚗 Currently working at Bolt
+- 🏦 Currently working at Stripe. Previously, Bolt, StackOverlow, & Google
 - 🖋️ And writing on [my blog](https://horia141.com)
 - 🌱 And hacking away on [horia141/jupiter](https://github.com/horia141/jupiter)
 
